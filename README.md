@@ -1,6 +1,6 @@
 # kodecamp-stage1-task
 
-# DevOps Lifecycle
+## DevOps Lifecycle
 
 ## Introduction to DevOps
 
@@ -22,7 +22,7 @@ Developers write and manage application code using version control systems such 
 The source code is compiled into executable applications or packages. Build tools automate this process to ensure consistency and efficiency.
 
 ## 4. Testing
-Automated and manual testing are performed to detect bugs, security issues, and performance problems before release.
+Testing are performed to detect bugs, security issues, and performance problems before release.
 
 ## 5. Release
 In this stage, the validated application is prepared for production. Release management ensures that deployment is smooth and controlled.
