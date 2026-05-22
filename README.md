@@ -1,4 +1,7 @@
-# Simple Bash To-Do List Manager
+
+# KODECAMP Stage 2 Task - Bash Scripting
+
+## Simple Bash To-Do List Manager
 
 A lightweight command-line script to manage your daily tasks directly from the terminal.
 
@@ -19,22 +22,4 @@ A lightweight command-line script to manage your daily tasks directly from the t
    ```bash
    ./todo.sh
    ```
-
-## Screenshots & Descriptions
-
-### Main Menu
-The script opens with a clean, interactive menu.
-![Main Menu](path/to/screenshot1.png)
-
-### Viewing Tasks
-Displays your saved list using numbered formatting.
-![View Tasks](path/to/screenshot2.png)
-
-### Adding a Task
-Saves your new task directly to the text file.
-![Add Task](path/to/screenshot3.png)
-
-### Deleting a Task
-Removes the chosen task number and updates the list.
-![Delete Task](path/to/screenshot4.png)
 
